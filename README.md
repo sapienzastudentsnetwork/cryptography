@@ -33,7 +33,7 @@ Thank you in advance for your contribution 🙌
                     <td align="center"> February ?? </a></td>
                 </tr>
                 <tr>
-                    <td align="center"> April ?? </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;april+8th+2024&quot;"> April 8th </a></td>
                 </tr>
                 <tr>
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;june+5th+2024&quot;"> June 5th </a></td>
@@ -42,7 +42,7 @@ Thank you in advance for your contribution 🙌
                     <td align="center"> July ?? </a></td>
                 </tr>
                 <tr>
-		    		<td align="center"> September ?? </a></td>
+		    		<td align="center"><a href="../../discussions?discussions_q=label%3A&quot;september+10th+2024&quot;"> September 10th </a></td>
 		</tr>
             </table>
         </td>

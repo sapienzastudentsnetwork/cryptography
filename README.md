@@ -8,10 +8,6 @@
  
 In this forum, **anyone can contribute** not only **by proposing solutions or commenting**, but also by adding [new exercise texts from final exams](https://github.com/sapienzastudentsnetwork/cryptography/discussions/new?category=exams) or [new homework exercises](https://github.com/sapienzastudentsnetwork/cryptography/discussions/new?category=exercises). If you’d like to contribute even more significantly, you can also join the **management team**.
 
-At the moment, the management of this forum is handled by the following colleagues:
-
-- Simone **Bianco** ([@Exyss](https://github.com/Exyss)) [[Telegram](https://t.me/Exyss)]
-
 Thank you in advance for your contribution 🙌
 
 **Note**: exams labeled with "??" are either missing/lost or T.B.A. In case you have an old missing exam, please add it as soon as possible!
@@ -100,3 +96,13 @@ Thank you in advance for your contribution 🙌
         		</tr>
             </table>
         </td>
+	</tr>
+</table>
+</div>
+
+		
+## 👷‍♀️ Maintainers
+
+At the moment, the management of this forum is handled by the following colleagues:
+
+- Simone **Bianco** ([@Exyss](https://github.com/Exyss)) [[Telegram](https://t.me/Exyss)]

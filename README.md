@@ -30,7 +30,7 @@ Thank you in advance for your contribution 🙌
                     <td align="center"> January ?? </a></td>
                 </tr>
                 <tr>
-                    <td align="center"> February ?? </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;february+7th+2024&quot;"> February 7th </a></td>
                 </tr>
                 <tr>
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;april+8th+2024&quot;"> April 8th </a></td>

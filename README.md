@@ -73,7 +73,7 @@ Thank you in advance for your contribution 🙌
 		    		<td align="center"><a href="../../discussions?discussions_q=label%3A&quot;september+8th+2025&quot;"> Semptember 8th </a></td>
         		</tr>
                 <tr>
-		    		<td align="center"><a href="../../discussions?discussions_q=label%3A&quot;november+5th+2025&quot;"> November ?? </a></td>
+		    		<td align="center"><a href="../../discussions?discussions_q=label%3A&quot;november+5th+2025&quot;"> November 5th </a></td>
 				</tr>
             </table>
         </td>

@@ -43,7 +43,10 @@ Thank you in advance for your contribution 🙌
                 </tr>
                 <tr>
 		    		<td align="center"><a href="../../discussions?discussions_q=label%3A&quot;september+10th+2024&quot;"> September 10th </a></td>
-		</tr>
+				</tr>
+                <tr>
+		    		<td align="center"> November ?? </a></td>
+				</tr>
             </table>
         </td>
         <td align="center">
@@ -69,6 +72,9 @@ Thank you in advance for your contribution 🙌
                 <tr>
 		    		<td align="center"><a href="../../discussions?discussions_q=label%3A&quot;september+8th+2025&quot;"> Semptember 8th </a></td>
         		</tr>
+                <tr>
+		    		<td align="center"><a href="../../discussions?discussions_q=label%3A&quot;november+5th+2025&quot;"> November ?? </a></td>
+				</tr>
             </table>
         </td>
         <td align="center">
@@ -93,6 +99,9 @@ Thank you in advance for your contribution 🙌
                 </tr>
                 <tr>
 		    		<td align="center"> September ?? </a></td>
+        		</tr>
+                <tr>
+		    		<td align="center"> November ?? </a></td>
         		</tr>
             </table>
         </td>

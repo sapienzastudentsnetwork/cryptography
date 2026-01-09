@@ -61,7 +61,7 @@ Thank you in advance for your contribution 🙌
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;february+3rd+2025&quot;"> February 3rd </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;april+5th+2025&quot;"> April 5th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;april+4th+2025&quot;"> April 4th </a></td>
                 </tr>
                 <tr>
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;june+9th+2025&quot;"> June 9th </a></td>

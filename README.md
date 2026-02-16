@@ -86,7 +86,7 @@ Thank you in advance for your contribution 🙌
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;january+13th+2026&quot;"> January 13th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"> February ?? </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;february+10th+2026&quot;"> February 10th </a></td>
                 </tr>
                 <tr>
                     <td align="center"> April ?? </a></td>

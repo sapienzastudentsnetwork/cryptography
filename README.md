@@ -20,55 +20,94 @@ Thank you in advance for your contribution 🙌
             <h3> Previous exams (prof. Daniele Venturi) </h3>
         </td>
     </tr>
-	<td align="center" valign="top">
-    <table>
-        <tr>
-            <td align="center">2018</td>
-        </tr>
-        <tr>
-            <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;february+20th+2018&quot;"> February 20th </a></td>
-        </tr>
-        <tr>
-            <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;june+8th+2018&quot;"> June 8th </a></td>
-        </tr>
-        <tr>
-            <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;july+20th+2018&quot;"> July 20th </a></td>
-        </tr>
-    </table>
-</td>
-
-<td align="center" valign="top">
-    <table>
-        <tr>
-            <td align="center">2019</td>
-        </tr>
-        <tr>
-            <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;january+24th+2019&quot;"> January 24th </a></td>
-        </tr>
-        <tr>
-            <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;february+11th+2019&quot;"> February 11th </a></td>
-        </tr>
-    </table>
-</td>
-
-<td align="center" valign="top">
-    <table>
-        <tr>
-            <td align="center">2020</td>
-        </tr>
-        <tr>
-            <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;january+14th+2020&quot;"> January 14th </a></td>
-        </tr>
-        <tr>
-            <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;february+10th+2020&quot;"> February 10th </a></td>
-        </tr>
-        <tr>
-            <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;may+5th+2020&quot;"> May 5th </a></td>
-        </tr>
-    </table>
-</td>
     <tr>
-        <td align="center">
+        <td align="center" valign="top">
+            <table>
+                <tr>
+                    <td align="center">2018</td>
+                </tr>
+                <tr>
+                    <td align="center"> January ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;february+20th+2018&quot;"> February 20th </a></td>
+                </tr>
+                <tr>
+                    <td align="center"> April ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;june+8th+2018&quot;"> June 8th </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;july+20th+2018&quot;"> July 20th </a></td>
+                </tr>
+                <tr>
+                    <td align="center"> September ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"> November ?? </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top">
+            <table>
+                <tr>
+                    <td align="center">2019</td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;january+24th+2019&quot;"> January 24th </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;february+11th+2019&quot;"> February 11th </a></td>
+                </tr>
+                <tr>
+                    <td align="center"> April ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"> June ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"> July ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"> September ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"> November ?? </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top">
+            <table>
+                <tr>
+                    <td align="center">2020</td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;january+14th+2020&quot;"> January 14th </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;february+10th+2020&quot;"> February 10th </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;may+5th+2020&quot;"> May 5th </a></td>
+                </tr>
+                <tr>
+                    <td align="center"> June ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"> July ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"> September ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"> November ?? </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="top">
             <table>
                 <tr>
                     <td align="center">2024</td>
@@ -86,17 +125,17 @@ Thank you in advance for your contribution 🙌
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;june+5th+2024&quot;"> June 5th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"> July ?? </a></td>
+                    <td align="center"> July ?? </td>
                 </tr>
                 <tr>
-		    		<td align="center"><a href="../../discussions?discussions_q=label%3A&quot;september+10th+2024&quot;"> September 10th </a></td>
-				</tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;september+10th+2024&quot;"> September 10th </a></td>
+                </tr>
                 <tr>
-		    		<td align="center"> November ?? </a></td>
-				</tr>
+                    <td align="center"> November ?? </td>
+                </tr>
             </table>
         </td>
-        <td align="center">
+        <td align="center" valign="top">
             <table>
                 <tr>
                     <td align="center">2025</td>
@@ -117,14 +156,14 @@ Thank you in advance for your contribution 🙌
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;july+14th+2025&quot;"> July 14th </a></td>
                 </tr>
                 <tr>
-		    		<td align="center"><a href="../../discussions?discussions_q=label%3A&quot;september+8th+2025&quot;"> Semptember 8th </a></td>
-        		</tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;september+8th+2025&quot;"> September 8th </a></td>
+                </tr>
                 <tr>
-		    		<td align="center"><a href="../../discussions?discussions_q=label%3A&quot;november+5th+2025&quot;"> November 5th </a></td>
-				</tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;november+5th+2025&quot;"> November 5th </a></td>
+                </tr>
             </table>
         </td>
-        <td align="center">
+        <td align="center" valign="top">
             <table>
                 <tr>
                     <td align="center">2026</td>
@@ -142,17 +181,17 @@ Thank you in advance for your contribution 🙌
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;june+9th+2026&quot;"> June 9th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"> July ?? </a></td>
+                    <td align="center"> July ?? </td>
                 </tr>
                 <tr>
-		    		<td align="center"> September ?? </a></td>
-        		</tr>
+                    <td align="center"> September ?? </td>
+                </tr>
                 <tr>
-		    		<td align="center"> November ?? </a></td>
-        		</tr>
+                    <td align="center"> November ?? </td>
+                </tr>
             </table>
         </td>
-	</tr>
+    </tr>
 </table>
 </div>
 

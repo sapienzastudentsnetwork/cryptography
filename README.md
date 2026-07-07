@@ -1,22 +1,17 @@
 # Cryptography
-
 ## 👋 Introduction to the Forum
-
 ℹ️ The purpose of this GitHub repository is to share and discuss **solutions and exercises** assigned by **Prof. Daniele Venturi** for the **Cryptography** course, which is part of the *Master’s Degree Programs in Computer Science and Cybersecurity* at **Sapienza University of Rome**.
-
 💬 The forum is available directly in the repository’s [Discussions section](https://github.com/sapienzastudentsnetwork/cryptography/discussions).
  
 In this forum, **anyone can contribute** not only **by proposing solutions or commenting**, but also by adding [new exercise texts from final exams](https://github.com/sapienzastudentsnetwork/cryptography/discussions/new?category=exams) or [new homework exercises](https://github.com/sapienzastudentsnetwork/cryptography/discussions/new?category=exercises). If you’d like to contribute even more significantly, you can also join the **management team**.
-
 Thank you in advance for your contribution 🙌
 
 **Note**: exams labeled with "??" are either missing/lost or T.B.A. In case you have an old missing exam, please add it as soon as possible!
 
 <div align="center">
-
 <table align="center">
     <tr>
-        <td colspan="3" align="center">
+        <td colspan="5" align="center">
             <h3> Previous exams (prof. Daniele Venturi) </h3>
         </td>
     </tr>
@@ -105,8 +100,92 @@ Thank you in advance for your contribution 🙌
                 </tr>
             </table>
         </td>
+        <td align="center" valign="top">
+            <table>
+                <tr>
+                    <td align="center">2021</td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;january+13th+2021&quot;"> January 13th </a></td>
+                </tr>
+                <tr>
+                    <td align="center"> February ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"> April ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"> June ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"> July ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;september+6th+2021&quot;"> September 6th </a></td>
+                </tr>
+                <tr>
+                    <td align="center"> November ?? </td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top">
+            <table>
+                <tr>
+                    <td align="center">2022</td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;january+14th+2022&quot;"> January 14th </a></td>
+                </tr>
+                <tr>
+                    <td align="center"> February ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"> April ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;june+3rd+2022&quot;"> June 3rd </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;july+5th+2022&quot;"> July 5th </a></td>
+                </tr>
+                <tr>
+                    <td align="center"> September ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;october+24th+2022&quot;"> October 24th </a></td>
+                </tr>
+            </table>
+        </td>
     </tr>
     <tr>
+        <td align="center" valign="top">
+            <table>
+                <tr>
+                    <td align="center">2023</td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;january+11th+2023&quot;"> January 11th </a></td>
+                </tr>
+                <tr>
+                    <td align="center"> February ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"> April ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"> June ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"> July ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"> September ?? </td>
+                </tr>
+                <tr>
+                    <td align="center"> November ?? </td>
+                </tr>
+            </table>
+        </td>
         <td align="center" valign="top">
             <table>
                 <tr>
@@ -191,13 +270,21 @@ Thank you in advance for your contribution 🙌
                 </tr>
             </table>
         </td>
+        <td align="center" valign="top">
+            <table>
+                <tr>
+                    <td align="center">Unknown</td>
+                </tr>
+				<tr>
+				    <td align="center"><a href="../../discussions?discussions_q=%22july%22+label%3A%22Unknown%22"> July ?? </a></td>
+				</tr>
+            </table>
+        </td>
     </tr>
 </table>
 </div>
-
-		
-## 👷‍♀️ Maintainers
-
+        
+## 👷‍♀️ Maintainers and collaborators
 At the moment, the management of this forum is handled by the following colleagues:
-
 - Simone **Bianco** ([@Exyss](https://github.com/Exyss)) [[Telegram](https://t.me/Exyss)]
+- Alessio **Bandiera** ([@aflaag](https://github.com/aflaag)) [[Telegram](https://t.me/aflaag)]

@@ -179,13 +179,13 @@ Thank you in advance for your contribution 🙌
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;march+28th+2023&quot;"> March 28th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"> June ?? </td>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;june+7th+2023&quot;"> June 7th </a></td>
                 </tr>
                 <tr>
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;july+5th+2023&quot;"> July 5th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"> September ?? </td>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;september+4th+2023&quot;"> September 4th </a></td>
                 </tr>
                 <tr>
                     <td align="center"> November ?? </td>

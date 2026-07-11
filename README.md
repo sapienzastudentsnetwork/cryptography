@@ -179,9 +179,6 @@ Thank you in advance for your contribution 🙌
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;march+28th+2023&quot;"> March 28th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"> April ?? </td>
-                </tr>
-                <tr>
                     <td align="center"> June ?? </td>
                 </tr>
                 <tr>

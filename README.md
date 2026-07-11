@@ -159,6 +159,12 @@ Thank you in advance for your contribution 🙌
     </tr>
     <tr>
         <td align="center" valign="top">
+            <!-- 
+            ## 👷‍♀️ Maintainers and collaborators
+            At the moment, the management of this forum is handled by the following colleagues:
+            - Simone **Bianco** ([@Exyss](https://github.com/Exyss)) [[Telegram](https://t.me/Exyss)]
+            - Alessio **Bandiera** ([@aflaag](https://github.com/aflaag)) [[Telegram](https://t.me/aflaag)]
+            -->
             <table>
                 <tr>
                     <td align="center">2023</td>
@@ -167,7 +173,10 @@ Thank you in advance for your contribution 🙌
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;january+11th+2023&quot;"> January 11th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"> February ?? </td>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;february+8th+2023&quot;"> February 8th </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;march+28th+2023&quot;"> March 28th </a></td>
                 </tr>
                 <tr>
                     <td align="center"> April ?? </td>
@@ -176,7 +185,7 @@ Thank you in advance for your contribution 🙌
                     <td align="center"> June ?? </td>
                 </tr>
                 <tr>
-                    <td align="center"> July ?? </td>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;july+5th+2023&quot;"> July 5th </a></td>
                 </tr>
                 <tr>
                     <td align="center"> September ?? </td>
@@ -275,9 +284,9 @@ Thank you in advance for your contribution 🙌
                 <tr>
                     <td align="center">Unknown</td>
                 </tr>
-				<tr>
-				    <td align="center"><a href="../../discussions?discussions_q=%22july%22+label%3A%22Unknown%22"> July ?? </a></td>
-				</tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=%22july%22+label%3A%22Unknown%22"> July ?? </a></td>
+                </tr>
             </table>
         </td>
     </tr>

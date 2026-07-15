@@ -25,16 +25,16 @@ Thank you in advance for your contribution 🙌
                     <td align="center"> January ?? </td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;february+20th+2018&quot;"> February 20th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;february+20th+2018&quot;"> February 20th </a></td>
                 </tr>
                 <tr>
                     <td align="center"> April ?? </td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;june+8th+2018&quot;"> June 8th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;june+8th+2018&quot;"> June 8th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;july+20th+2018&quot;"> July 20th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;july+20th+2018&quot;"> July 20th </a></td>
                 </tr>
                 <tr>
                     <td align="center"> September ?? </td>
@@ -50,10 +50,10 @@ Thank you in advance for your contribution 🙌
                     <td align="center">2019</td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;january+24th+2019&quot;"> January 24th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;january+24th+2019&quot;"> January 24th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;february+11th+2019&quot;"> February 11th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;february+11th+2019&quot;"> February 11th </a></td>
                 </tr>
                 <tr>
                     <td align="center"> April ?? </td>
@@ -78,13 +78,13 @@ Thank you in advance for your contribution 🙌
                     <td align="center">2020</td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;january+14th+2020&quot;"> January 14th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;january+14th+2020&quot;"> January 14th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;february+10th+2020&quot;"> February 10th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;february+10th+2020&quot;"> February 10th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;may+5th+2020&quot;"> May 5th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;may+5th+2020&quot;"> May 5th </a></td>
                 </tr>
                 <tr>
                     <td align="center"> June ?? </td>
@@ -106,7 +106,7 @@ Thank you in advance for your contribution 🙌
                     <td align="center">2021</td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;january+13th+2021&quot;"> January 13th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;january+13th+2021&quot;"> January 13th </a></td>
                 </tr>
                 <tr>
                     <td align="center"> February ?? </td>
@@ -121,7 +121,7 @@ Thank you in advance for your contribution 🙌
                     <td align="center"> July ?? </td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;september+6th+2021&quot;"> September 6th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;september+6th+2021&quot;"> September 6th </a></td>
                 </tr>
                 <tr>
                     <td align="center"> November ?? </td>
@@ -134,7 +134,7 @@ Thank you in advance for your contribution 🙌
                     <td align="center">2022</td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;january+14th+2022&quot;"> January 14th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;january+14th+2022&quot;"> January 14th </a></td>
                 </tr>
                 <tr>
                     <td align="center"> February ?? </td>
@@ -143,16 +143,16 @@ Thank you in advance for your contribution 🙌
                     <td align="center"> April ?? </td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;june+3rd+2022&quot;"> June 3rd </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;june+3rd+2022&quot;"> June 3rd </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;july+5th+2022&quot;"> July 5th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;july+5th+2022&quot;"> July 5th </a></td>
                 </tr>
                 <tr>
                     <td align="center"> September ?? </td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;october+24th+2022&quot;"> October 24th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;october+24th+2022&quot;"> October 24th </a></td>
                 </tr>
             </table>
         </td>
@@ -170,22 +170,22 @@ Thank you in advance for your contribution 🙌
                     <td align="center">2023</td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;january+11th+2023&quot;"> January 11th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;january+11th+2023&quot;"> January 11th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;february+8th+2023&quot;"> February 8th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;february+8th+2023&quot;"> February 8th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;march+28th+2023&quot;"> March 28th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;march+28th+2023&quot;"> March 28th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;june+7th+2023&quot;"> June 7th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;june+7th+2023&quot;"> June 7th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;july+5th+2023&quot;"> July 5th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;july+5th+2023&quot;"> July 5th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;september+4th+2023&quot;"> September 4th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;september+4th+2023&quot;"> September 4th </a></td>
                 </tr>
                 <tr>
                     <td align="center"> November ?? </td>
@@ -198,22 +198,22 @@ Thank you in advance for your contribution 🙌
                     <td align="center">2024</td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;january+11th+2024&quot;"> January 11th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;january+11th+2024&quot;"> January 11th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;february+7th+2024&quot;"> February 7th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;february+7th+2024&quot;"> February 7th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;april+8th+2024&quot;"> April 8th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;april+8th+2024&quot;"> April 8th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;june+5th+2024&quot;"> June 5th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;june+5th+2024&quot;"> June 5th </a></td>
                 </tr>
                 <tr>
                     <td align="center"> July ?? </td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;september+10th+2024&quot;"> September 10th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;september+10th+2024&quot;"> September 10th </a></td>
                 </tr>
                 <tr>
                     <td align="center"> November ?? </td>
@@ -226,25 +226,25 @@ Thank you in advance for your contribution 🙌
                     <td align="center">2025</td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;january+13th+2025&quot;"> January 13th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;january+13th+2025&quot;"> January 13th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;february+3rd+2025&quot;"> February 3rd </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;february+3rd+2025&quot;"> February 3rd </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;april+4th+2025&quot;"> April 4th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;april+4th+2025&quot;"> April 4th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;june+9th+2025&quot;"> June 9th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;june+9th+2025&quot;"> June 9th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;july+14th+2025&quot;"> July 14th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;july+14th+2025&quot;"> July 14th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;september+8th+2025&quot;"> September 8th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;september+8th+2025&quot;"> September 8th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;november+5th+2025&quot;"> November 5th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;november+5th+2025&quot;"> November 5th </a></td>
                 </tr>
             </table>
         </td>
@@ -254,19 +254,19 @@ Thank you in advance for your contribution 🙌
                     <td align="center">2026</td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;january+13th+2026&quot;"> January 13th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;january+13th+2026&quot;"> January 13th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;february+10th+2026&quot;"> February 10th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;february+10th+2026&quot;"> February 10th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;march+31st+2026&quot;"> March 31st </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;march+31st+2026&quot;"> March 31st </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;june+9th+2026&quot;"> June 9th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;june+9th+2026&quot;"> June 9th </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;july+14th+2026&quot;"> July 14th </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+label%3A&quot;july+14th+2026&quot;"> July 14th </a></td>
                 </tr>
                 <tr>
                     <td align="center"> September ?? </td>
@@ -282,14 +282,65 @@ Thank you in advance for your contribution 🙌
                     <td align="center">Unknown</td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../discussions?discussions_q=%22july%22+label%3A%22Unknown%22"> July ?? </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AExams+%22july%22+label%3A%22Unknown%22"> July ?? </a></td>
                 </tr>
             </table>
         </td>
     </tr>
 </table>
 </div>
-        
+
+<div align="center">
+<table align="center">
+    <tr>
+        <td colspan="3" align="center">
+            <h3> Previous homeworks (prof. Daniele Venturi) </h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="top">
+            <table>
+                <tr>
+                    <td align="center">2016</td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AHomeworks+label%3A&quot;november+18th+2016&quot;"> November 18th </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AHomeworks+label%3A&quot;december+19th+2016&quot;"> December 19th </a></td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top">
+            <table>
+                <tr>
+                    <td align="center">2017</td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AHomeworks+label%3A&quot;november+15th+2017&quot;"> November 15th </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AHomeworks+label%3A&quot;december+21st+2017&quot;"> December 21st </a></td>
+                </tr>
+            </table>
+        </td>
+        <td align="center" valign="top">
+            <table>
+                <tr>
+                    <td align="center">2019</td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AHomeworks+label%3A&quot;november+13th+2019&quot;"> November 13th </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=category%3AHomeworks+label%3A&quot;december+18th+2019&quot;"> December 18th </a></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+</div>
+
 ## 👷‍♀️ Maintainers and collaborators
 At the moment, the management of this forum is handled by the following colleagues:
 - Simone **Bianco** ([@Exyss](https://github.com/Exyss)) [[Telegram](https://t.me/Exyss)]
